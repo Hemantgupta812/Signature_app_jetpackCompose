@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SignatureApp</string>
+    <string name="open_signature_compose_editor">Open SIgnature Compose Editor</string>
+    <string name="title_activity_signature_editor_panel">SignatureEditorPanel</string>
+    <string name="welcome_to_share_activity">Welcome To Share Activity</string>
+    <string name="signature_app">Signature App</string>
+</resources>
